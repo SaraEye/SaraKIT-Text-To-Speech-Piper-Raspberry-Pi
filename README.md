@@ -72,7 +72,11 @@ int main() {
 
 The effects of this simple yet powerful script can be seen in the video below:
 
-[Video Link]
+
+
+https://github.com/SaraEye/SaraKIT-Text-To-Speech-Piper-Raspberry-Pi/assets/35704910/7534320e-396d-4baf-8424-a3bf7511a5d3
+
+
 
 [https://sarakit.saraai.com/](https://sarakit.saraai.com/)
 
