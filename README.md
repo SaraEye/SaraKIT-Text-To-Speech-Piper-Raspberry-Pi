@@ -14,7 +14,7 @@ Piper on GitHub:
 [https://github.com/rhasspy/piper-phonemize](https://github.com/rhasspy/piper-phonemize) (an additional component)
 
 Voices for Piper:
-[https://huggingface.co/rhasspy/piper-voices/tree/v1.0.0](https://huggingface.co/rhasspy/piper-voices/tree/v1.0.0)
+[https://huggingface.co/rhasspy/piper-voices/tree/main](https://huggingface.co/rhasspy/piper-voices/tree/main)
 
 ## Installation on SaraKIT
 
