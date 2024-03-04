@@ -27,7 +27,7 @@ sudo apt-get install libspdlog-dev
 git clone https://github.com/SaraEye/SaraKIT-Text-To-Speech-Piper-Raspberry-Pi piper
 cd piper
 
-sudo cp -r lib/piper/*.* /usr/local/lib/
+sudo cp -r lib/piper/lib/*.* /usr/local/lib/
 sudo ldconfig
 
 make
