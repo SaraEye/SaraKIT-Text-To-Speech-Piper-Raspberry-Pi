@@ -33,7 +33,7 @@ sudo ldconfig
 make
 ```
 
-To use a language other than English, download the required language model from [https://huggingface.co/rhasspy/piper-voices/tree/v1.0.0](https://huggingface.co/rhasspy/piper-voices/tree/v1.0.0) and place it in a directory, e.g., `lib/piper/models`.
+To use a language other than English, download the required language model from [https://huggingface.co/rhasspy/piper-voices/tree/main](https://huggingface.co/rhasspy/piper-voices/tree/main) and place it in a directory, e.g., `lib/piper/models`.
 
 Start speech recognition by running:
 ```bash
