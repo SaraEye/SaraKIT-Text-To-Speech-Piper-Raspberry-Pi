@@ -24,12 +24,12 @@ Assuming the basic SaraKIT drivers are already installed ([https://sarakit.saraa
 sudo apt-get install libasound2-dev
 sudo apt-get install libfmt-dev
 sudo apt-get install libspdlog-dev
+git clone https://github.com/SaraEye/SaraKIT-Text-To-Speech-Piper-Raspberry-Pi piper
+cd piper
 
 sudo cp -r lib/piper/*.* /usr/local/lib/
 sudo ldconfig
 
-git clone https://github.com/SaraEye/SaraKIT-Text-To-Speech-Piper-Raspberry-Pi piper
-cd piper
 make
 ```
 
