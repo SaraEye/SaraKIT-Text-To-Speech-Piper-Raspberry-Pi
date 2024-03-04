@@ -25,12 +25,12 @@ sudo apt-get install libasound2-dev
 sudo apt-get install libfmt-dev
 sudo apt-get install libspdlog-dev
 
+sudo cp -r lib/piper/*.* /usr/local/lib/
+sudo ldconfig
+
 git clone https://github.com/SaraEye/SaraKIT-Text-To-Speech-Piper-Raspberry-Pi piper
 cd piper
 make
-
-sudo cp -r lib/piper/*.* /usr/local/lib/
-sudo ldconfig
 ```
 
 To use a language other than English, download the required language model from [https://huggingface.co/rhasspy/piper-voices/tree/v1.0.0](https://huggingface.co/rhasspy/piper-voices/tree/v1.0.0) and place it in a directory, e.g., `lib/piper/models`.
